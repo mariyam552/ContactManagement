@@ -1,0 +1,80 @@
+.main-header {
+  background: linear-gradient(to bottom right, #ffffffcc, #61cad880);
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 24px;
+  height: 60px;
+  font-family: sans-serif;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.center-title {
+    position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 30px;
+  font-weight: bold;
+  color: darkcyan
+  
+}
+
+.right-section {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.logout-btn {
+  background-color: grey;
+  color: black;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.profile-section {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.profile-icon {
+  font-size: 24px;
+  margin-right: 8px;
+  color:  darkcyan;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+
+
+.profile-text {
+  font-weight: bold;
+}
+.back-icon {
+  font-size: 24px;
+  margin-right: 12px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  color:  darkcyan;
+}
+
+.left-section {
+  display: flex;
+  align-items: center;
+}
+.fullscreen-icon {
+  font-size: 20px;
+  cursor: pointer;
+  margin-right: 20px;
+  color:  darkcyan;
+}
+
+
+
+
