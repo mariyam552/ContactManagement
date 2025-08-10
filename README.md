@@ -6,7 +6,7 @@ Hi, I am Maryam. Here are some of my projects:
   [Repo Link](https://github.com/mariyam552/contactManagementBackend) 
 
 - **Contact Management System (Frontend)** (Private)  
-  [Repo Link](https://github.com/mariyam552/ContactManagementSystemfrontend)
+  [Repo Link]contactmanagementsystemfrontened
 
 --
 
